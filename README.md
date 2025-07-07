@@ -85,7 +85,10 @@ Prometheus and Grafana are set up to monitor the Kafka containers (extendable to
 - Prometheus pulls metrics from Kafka (extend using exporters)
 
 ---
+## Kafka Header ##
+![Alt text](kh.png)
 
+---
 ## 🔍 Comparison: Kafka Streams vs ksqlDB
 
 | Feature                      | Kafka Streams                                | ksqlDB                                           |
